@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/composer" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/phpunit/php-code-coverage" />
+    </include_path>
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>

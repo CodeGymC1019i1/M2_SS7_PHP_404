@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b47c2cb-c67b-4281-84aa-1b999b152672" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/src/Cylinder.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/src/Cylinder.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/composer" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/phpunit/php-code-coverage" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1UkqIIjCu23Fb7pBo2O8zfOb05p" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Baitap" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b47c2cb-c67b-4281-84aa-1b999b152672" name="Default Changelist" comment="" />
+      <created>1575910859905</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575910859905</updated>
+      <workItem from="1575910861068" duration="55000" />
+      <workItem from="1575910917435" duration="329000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="461" y="27" width="501" height="741" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#method1" timestamp="1575911040274">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="461" y="27" width="501" height="741" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#method1/67.27.1299.741@67.27.1299.741" timestamp="1575911040274" />
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1575911244888">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1575911244888" />
+  </component>
+</project>

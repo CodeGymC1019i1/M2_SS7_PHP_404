@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="516e20a0-8616-419e-b9d0-514a59451055" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/KataTennis/php-cleancode-refactoring-exercise/TennisGame.php" beforeDir="false" afterPath="$PROJECT_DIR$/KataTennis/php-cleancode-refactoring-exercise/TennisGame.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KataTennis/php-cleancode-refactoring-exercise/TennisGameMain.php" beforeDir="false" afterPath="$PROJECT_DIR$/KataTennis/php-cleancode-refactoring-exercise/TennisGameMain.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/KataTennis/php-cleancode-refactoring-exercise" />
+  </component>
+  <component name="ProjectId" id="1Ukr51qczmDO5udfmMJBNZSuxfE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../M2_SS4_404/HaiTran/Baitap" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="516e20a0-8616-419e-b9d0-514a59451055" name="Default Changelist" comment="" />
+      <created>1575911246627</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575911246627</updated>
+      <workItem from="1575911247746" duration="4325000" />
+      <workItem from="1575940786972" duration="114000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="27" width="587" height="741" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1575912285957">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="418" y="27" width="587" height="741" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/67.27.1299.741@67.27.1299.741" timestamp="1575912285957" />
+    <state x="461" y="27" width="514" height="741" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#method0" timestamp="1575915356689">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="461" y="27" width="514" height="741" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#method0/67.27.1299.741@67.27.1299.741" timestamp="1575915356689" />
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1575940899545">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1575940899545" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1575940788036">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1575940788036" />
+    <state x="461" y="40" width="501" height="713" key="refactoring.ChangeSignatureDialog" timestamp="1575911827537">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="461" y="40" width="501" height="713" key="refactoring.ChangeSignatureDialog/67.27.1299.741@67.27.1299.741" timestamp="1575911827537" />
+  </component>
+</project>
